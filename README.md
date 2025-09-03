@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @SaeSaeeda
-- 🌱 I’m currently learning Computer Science
+- 🌱 I have a bachelor in Computer Science 
